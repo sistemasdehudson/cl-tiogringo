@@ -1,8 +1,8 @@
 {
-    'name': 'alnisar',
+    'name': 'tiogringo',
     'version': '13.0.1.0.0',
     'category': 'Tools',
-    'summary': "Proyecto alnisar",
+    'summary': "Proyecto tiogringo",
     'author': 'Sdeh',
     'depends': [
         'base',
@@ -34,7 +34,7 @@
 
     # list of url repos to install in the form 'repo-url directory'
     'git-repos': [
-        'https://github.com/sistemasdehudson/cl-alnisar.git',
+        'https://github.com/sistemasdehudson/cl-tiogringo.git',
         'https://github.com/regaby/odoo-custom.git',
         'https://github.com/regaby/l10n_ar_fe_qr ctmil/l10n_ar_fe_qr',
         'https://github.com/regaby/sdeh-pos.git',
